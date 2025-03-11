@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Testing workflow
-        run: echo "Wokrflow works!"
+        run: echo "Workflow works!"
