@@ -10,5 +10,5 @@ jobs:
       - name:  Maven Test
         run: mvn  test
 
-      -name: Checkstyle
+      - name:  Checkstyle
         run: checkstyle:checkstyle
